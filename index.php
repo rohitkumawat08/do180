@@ -2,12 +2,10 @@
 <html>
 <body>
 
-<h1> Hello Guys this is rohit </h1>
+<h1> hello </h1>
 
 <?php
-echo " We are learning about S2I process in openshift";
-
-echo " Rohit Kumawat"
+echo " bs ho gyi access refresh na kro";
 ?>
 
 </body>
